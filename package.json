@@ -1,0 +1,25 @@
+{
+  "name": "web3-protochain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "npx tsc",
+    "start": "node ./dist/blockchain.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManoelGomesDev/web3-protochain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManoelGomesDev/web3-protochain/issues"
+  },
+  "homepage": "https://github.com/ManoelGomesDev/web3-protochain#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
